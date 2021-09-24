@@ -1,0 +1,8 @@
+numpy 
+pandas 
+ginza 
+ja-ginza 
+spacy 
+jupyter
+jupyterlab
+pytest
